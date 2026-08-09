@@ -1,6 +1,6 @@
 # Alishba Zainab Khan
 
-I like watching how systems fail — AI systems, or anything else. A negative result, a failed experiment: that's still data, and it still matters. Half of what's here didn't work. It's going to be up anyway, because it's still a data point. And half of what did work worked because of the experiments that failed first.
+I like watching how systems fail - AI systems, or anything else. A negative result, a failed experiment: that's still data, and it still matters. Half of what's here didn't work. It's going to be up anyway, because it's still a data point. And half of what did work worked because of the experiments that failed first.
 
 ## About
 
