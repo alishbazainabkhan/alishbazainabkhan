@@ -6,7 +6,7 @@ I like watching how systems fail - AI systems, or anything else. A negative resu
 
 Independent AI safety researcher. BS Data Science & AI, BITS Pilani. 3+ years of adversarial LLM evaluation experience as an independent contractor, across 20+ projects.
 
-I work on behavioral evaluation of language models — how they behave under pressure, where guardrails fail across sessions rather than single turns, and whether models' self-reports about their own states can be trusted.
+I work on behavioral evaluation of language models - how they behave under pressure, where guardrails fail across sessions rather than single turns, and whether models' self-reports about their own states can be trusted.
 
 ## Research interests
 
