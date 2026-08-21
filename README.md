@@ -20,7 +20,7 @@ I work on behavioral evaluation of language models - how they behave under press
 
 - **Secret Loyalties Hackathon** - "Detecting Principal-Conditional Behaviour Across Conversational Sessions." Entry to Apart Research's Secret Loyalties hackathon, July 2026. Live now.
 - **Silo Problem** - Preprint on session-level failures of LLM guardrail architectures. Coming this week.
-- **Digital Minds Research Sprint** - Track 3 project on introspection and self-report reliability under Progressive Stakes Reduction elicitation. Apart Research, August 14–16.
+- **Digital Minds Research Sprint** — "Adversarial elicitation suppresses confident misattribution but does not improve introspective accuracy." Entry to Apart Research's Digital Minds Research Sprint, August 2026. Live now.
 
 ## Tools
 
